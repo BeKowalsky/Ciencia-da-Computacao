@@ -1,2 +1,12 @@
-# O que é um banco?
-
+# LGPD 
+  - Lei Geral de Proteção de Dados
+  
+# O que é dado?
+  - Dado: Fatos brutos, em sua forma primária, e podem não fazer nenhum sentido quando estão isolados.
+  - Informação: Agrupamento de dados organizados, de forma que façcam sentido e gerem algum conhecimento.
+  - Conhecimento: Compreensão da informação.
+  
+# O que é banco de dados?
+  - É uma coleção de dados inter-relacionados, representando informações sobre um domínio específico.
+  - Estrutura bem organizada de dados que permite a extração de informações.
+  - Requisitos de segurança.
